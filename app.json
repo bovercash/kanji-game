@@ -1,0 +1,6 @@
+{
+    "name": "Kanji Game",
+    "description": "Simple test of Heroku with Node",
+    "repository": "https://github.com/bovercash/kanji-game",
+    "image": "heroku/nodejs"
+  }
